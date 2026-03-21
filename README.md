@@ -86,7 +86,9 @@ We generate the conditions under which stories emerge
 因为真正有价值的写作系统，
 不是帮你生成更像别人的内容，
 而是帮你更完整地写出你自己的作品。
-但是我不是专业程序猿，我完全依靠AI来完成和修改这个东西，假如能提供一些自主，这有助于我激励和启动资金让更多人加入这个开发项目中来
+但是我不是专业程序猿，我完全依靠AI来完成和修改这个东西，假如能提供一些资助或加入我，这有助于激励我和助推这个项目的进度中来
+![a7a25f70b00ec96cc3f4e8fcc66638b3](https://github.com/user-attachments/assets/1e219d1b-d820-4d5c-b67d-5d6e007d7b9c)
+
 
 收尾一句
 
