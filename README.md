@@ -86,8 +86,20 @@ We generate the conditions under which stories emerge
 因为真正有价值的写作系统，
 不是帮你生成更像别人的内容，
 而是帮你更完整地写出你自己的作品。
+但是我不是专业程序猿，我完全依靠AI来完成和修改这个东西，假如能提供一些自主，这有助于我激励和启动资金让更多人加入这个开发项目中来
 
 收尾一句
 
 让 AI 不再只是“会写字”。
 而是开始真正理解创作。
+<img width="1826" height="820" alt="微信图片_20260317110511_281_65" src="https://github.com/user-attachments/assets/c3c031d7-9ca8-4b63-8782-8230c0b89499" />
+![ScreenShot_2026-03-21_080416_628](https://github.com/user-attachments/assets/32774724-8117-49c9-850e-23a3135d2ed8)
+![ScreenShot_2026-03-21_080533_183](https://github.com/user-attachments/assets/38bfc8cc-8d44-447a-819a-1e5967dee500)
+![ScreenShot_2026-03-21_080940_659](https://github.com/user-attachments/assets/5c1ad12c-86c7-400c-a087-f28fa0673f5f)
+![ScreenShot_2026-03-21_081015_536](https://github.com/user-attachments/assets/fd0970d8-22e7-4991-9fb7-c3c247b4b455)
+<img width="955" height="741" alt="微信图片_20260317110643_284_65" src="https://github.com/user-attachments/assets/15c0b783-b37f-41ed-b3b9-d6d25d5a9e9c" />
+<img width="1375" height="715" alt="微信图片_20260317110602_283_65" src="https://github.com/user-attachments/assets/0e307b33-64a9-40b2-84fc-a1b33cfc44ce" />
+
+
+
+
