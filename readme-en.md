@@ -35,6 +35,7 @@ Most current AI writing tools remain at “expansion” or “single-chapter gen
 
 NovelEngine is not a simple prompt collection, but a novel production protocol based on Multi-Agent Relay and a Dynamic Constraint System.  
 We aim to transform uncontrollable inspiration into a predictable, reversible, and auditable industrial pipeline.
+<img width="1826" height="820" alt="微信图片\_20260317110511\_281\_65" src="https://github.com/user-attachments/assets/c3c031d7-9ca8-4b63-8782-8230c0b89499" />
 
 🚀 Core Advantages: Why we can produce long-form works without “intelligence degradation”
 
@@ -98,12 +99,18 @@ I am not a professional programmer and rely entirely on AI to build this project
 Email: 10930003@qq.com
 
 “This is an era where ideas can be realized by AI — injecting soul into code and imagination into engineering.”
-
+![a7a25f70b00ec96cc3f4e8fcc66638b3](https://github.com/user-attachments/assets/1e219d1b-d820-4d5c-b67d-5d6e007d7b9c)
 A production line for virtual worlds  
 Structure the world. Let stories happen.  
 story-os  
 ai-director  
 world-simulator  
 We generate the conditions under which stories emerge
-
 — Zongheng Development Team
+
+![ScreenShot_2026-03-21_080416_628](https://github.com/user-attachments/assets/32774724-8117-49c9-850e-23a3135d2ed8)
+![ScreenShot_2026-03-21_080533_183](https://github.com/user-attachments/assets/38bfc8cc-8d44-447a-819a-1e5967dee500)
+![ScreenShot_2026-03-21_080940_659](https://github.com/user-attachments/assets/5c1ad12c-86c7-400c-a087-f28fa0673f5f)
+![ScreenShot_2026-03-21_081015_536](https://github.com/user-attachments/assets/fd0970d8-22e7-4991-9fb7-c3c247b4b455)
+<img width="955" height="741" alt="微信图片_20260317110643_284_65" src="https://github.com/user-attachments/assets/15c0b783-b37f-41ed-b3b9-d6d25d5a9e9c" />
+<img width="1375" height="715" alt="微信图片_20260317110602_283_65" src="https://github.com/user-attachments/assets/0e307b33-64a9-40b2-84fc-a1b33cfc44ce" />
